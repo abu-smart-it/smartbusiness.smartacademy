@@ -16,7 +16,7 @@ Your are free to choose any mail providers - gmail from Google, outlook from Mic
 
 Open your browser with Incognito mode and go to the https://github.com
 
-Choose Sign Up in top right corner.
+Choose _Sign Up_ in top right corner.
 
 Use email account created on previous step.
 
